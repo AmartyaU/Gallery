@@ -6,7 +6,7 @@ Your Name: Amartya Utkarsh
 
 I've selected Abby as my persona.
 
-![](personas.pdf)
+![](persona.jpg)
 
 I've selected my persona because the general population for my target audience won't be technology fanatics, so I need to keep my site as simple and easily navigable as possible. I need to implement normal design design conventions so that my target audience don't get frustrated in using my website.
 For example, I have added different pages with clear navigation buttons so that my user is sure where they are and what they are doing. I am also using appropriate errors for my forms so that my user is sure of what they entered wrong in the form and hence they won't get anxious or frustrated with the process of navigating the website itself.
